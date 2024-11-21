@@ -26,23 +26,26 @@ Website Link: https://krazy-kanbanboard.onrender.com/
 A website built to allow users to keep track of their tasks and their progress.
 
 Main Page:
-![Screenshot 2024-11-21 at 9 03 43 AM](https://github.com/user-attachments/assets/b04b15f3-96d9-48cb-998c-20d5482e97e3)
+![Screenshot 2024-11-21 at 9 47 47 AM](https://github.com/user-attachments/assets/055698ba-2ea2-43ce-bf26-0a1c6dd74cf2)
+
 
 Click Login to open login prompt, and enter username and password.
-![Screenshot 2024-11-21 at 9 03 58 AM](https://github.com/user-attachments/assets/7e73a73a-c859-4e7f-a538-609d1003e7bf)
+![Screenshot 2024-11-21 at 9 47 53 AM](https://github.com/user-attachments/assets/701c24e1-cc05-45fc-9dd2-8f56a453db5b)
+
 
 Once logged in, you will have access to your Kanban board.
+![Screenshot 2024-11-21 at 9 48 08 AM](https://github.com/user-attachments/assets/88ce1310-40ab-41e8-b2d4-0b52cd216078)
 
-![Screenshot 2024-11-21 at 9 04 21 AM](https://github.com/user-attachments/assets/767ecb05-8624-4980-86d8-2eac2f931270)
 
 
 From this page you will be able to either edit or delete an existing task or create a new one.
 
 If you choose to edit you should see the following page:
-![Screenshot 2024-11-21 at 9 04 29 AM](https://github.com/user-attachments/assets/c5d5407a-8c8c-4800-9351-25eea56ab96c)
+![Screenshot 2024-11-21 at 9 48 14 AM](https://github.com/user-attachments/assets/506bac47-1ec1-4ac4-b361-494c477b46ed)
+
 
 If you choose to create a ticket, you will see a page allowing you to create by filling in the details:
-![Screenshot 2024-11-21 at 9 04 39 AM](https://github.com/user-attachments/assets/102cc099-df86-423b-b266-7d262eb85ed2)
+![Screenshot 2024-11-21 at 9 48 23 AM](https://github.com/user-attachments/assets/be33e6a6-179e-4220-a31a-42daa57a55aa)
 
 
 
